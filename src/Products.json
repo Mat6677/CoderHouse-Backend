@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Banana",
+    "desc": "A yellow fruit",
+    "price": 0.99,
+    "thumbnail": "N/A",
+    "code": "123456",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "Apple",
+    "desc": "A red fruit",
+    "price": 1.49,
+    "thumbnail": "N/A",
+    "code": "789012",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "title": "Orange",
+    "desc": "A citrus fruit",
+    "price": 0.79,
+    "thumbnail": "N/A",
+    "code": "345678",
+    "stock": 35
+  },
+  {
+    "id": 4,
+    "title": "Grapes",
+    "desc": "A small fruit",
+    "price": 2.99,
+    "thumbnail": "N/A",
+    "code": "901234",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "title": "Watermelon",
+    "desc": "A large fruit",
+    "price": 4.99,
+    "thumbnail": "N/A",
+    "code": "567890",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "Pineapple",
+    "desc": "A tropical fruit",
+    "price": 3.49,
+    "thumbnail": "N/A",
+    "code": "123450",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "title": "Strawberries",
+    "desc": "A sweet fruit",
+    "price": 2.49,
+    "thumbnail": "N/A",
+    "code": "678901",
+    "stock": 30
+  },
+  {
+    "id": 8,
+    "title": "Mango",
+    "desc": "A juicy fruit",
+    "price": 1.99,
+    "thumbnail": "N/A",
+    "code": "234567",
+    "stock": 40
+  },
+  {
+    "id": 9,
+    "title": "Kiwi",
+    "desc": "A fuzzy fruit",
+    "price": 1.29,
+    "thumbnail": "N/A",
+    "code": "890123",
+    "stock": 45
+  },
+  {
+    "id": 10,
+    "title": "Peach",
+    "desc": "A soft fruit",
+    "price": 1.79,
+    "thumbnail": "N/A",
+    "code": "456789",
+    "stock": 55
+  }
+]
